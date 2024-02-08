@@ -72,7 +72,7 @@
 
   <properties>
     <apache.httpclient.version>4.5.14</apache.httpclient.version>
-    <aws.version>1.12.576</aws.version>
+    <aws.version>1.12.654</aws.version>
     <aws2.version>2.21.10</aws2.version>
     <gcp.bom.version>26.26.0</gcp.bom.version>
     <gcp.api-client.version>2.2.0</gcp.api-client.version>
