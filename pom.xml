@@ -115,7 +115,7 @@
     <nimbus.jose.version>9.37</nimbus.jose.version>
     <rdl.version>1.5.4</rdl.version>
     <slf4j.client.version>1.7.36</slf4j.client.version>
-    <slf4j.server.version>2.0.9</slf4j.server.version>
+    <slf4j.server.version>2.0.13</slf4j.server.version>
     <testcontainers.version>1.19.1</testcontainers.version>
     <testng.version>7.8.0</testng.version>
     <swagger.version>2.2.18</swagger.version>
